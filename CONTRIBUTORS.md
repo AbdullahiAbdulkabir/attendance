@@ -92,3 +92,10 @@
 - Department: Cyber Security Science
 - Interest: Travelling, Adventure
 - GitHub: [kharljordan](https://github.com/kharljordan)
+
+#### Name: [Aransiola Leom](https://github.com/CodeLeom)
+- Place: Bida, Niger State, Nigeria
+- Bio: Tech Enthusiast
+- Department: Computer Science
+- Interest: Travelling, Adventure and football
+- GitHub: [CodeLeom](https://github.com/CodeLeom)

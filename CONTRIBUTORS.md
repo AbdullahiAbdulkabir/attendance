@@ -99,3 +99,4 @@
 - Department: Computer Science
 - Interest: Travelling, Adventure and football
 - GitHub: [CodeLeom](https://github.com/CodeLeom)
+- Twitter: [@leomiscoding](https://twitter.com/leomiscoding)
